@@ -20,7 +20,7 @@ module.exports = {
 ```javascript
 
 // you need to import the file
-const person = require('./server.js
+const person = require('./server.js')
 
 console.log(person.jenner)
 console.log(person.age)

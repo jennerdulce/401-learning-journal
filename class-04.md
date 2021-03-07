@@ -197,4 +197,4 @@ const birdRoute = new DataCollection(birdModel);
 - as like any API request, you need to access with infomation by using a `.then(result => )` method
   - you access the information by doing a `result.body`
 - i found that running these tests, the mock database data is kept from the previous tests..
-- you can choose to 
+- you can choose to
