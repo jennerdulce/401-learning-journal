@@ -2,7 +2,7 @@
 - A type of data structure
 - A linked list is a linear data structure where elements are linked using pointers
 - 3 types: singular, doubly, circular
--[Linked List assignment](https://github.com/jennerdulce/data-structures-and-algorithms/tree/main/javascript/code-challenges/Data-Structures/linkedList)
+- [Linked List assignment](https://github.com/jennerdulce/data-structures-and-algorithms/tree/main/javascript/code-challenges/Data-Structures/linkedList)
 
 ## Big O Notation
 - time complexity -> efficiency
