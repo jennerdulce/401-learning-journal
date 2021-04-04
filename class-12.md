@@ -78,7 +78,5 @@ const io = require('socket.io-client')
 const host = 'http://localhost:3000'
 const mainsocket = io.connect(host) // connects to socket
 const housesocket = io.connect(host+'/house')
-
-
 housesocket.emit('enter','kitchen')
 ```
