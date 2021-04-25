@@ -4,6 +4,19 @@
 
 - Walk through on all the things needed to build out a AWS Serverless API (API Gateway) along with Serverless Functions (lambda) that retrieves, stores, and manipulates data from a AWS DynamoDB database
 
+### Benefits
+
+- API GATEWAY
+  - An API gateway is an API management tool that sits between a client and a collection of backend services.
+
+- Lambda
+  - AWS Lambda is an event-driven, serverless computing platform provided by Amazon as a part of Amazon Web Services. It is a computing service that runs code in response to events and automatically manages the computing resources required by that code
+
+- DynamoDB
+  - Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multi-region, multi-active, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications. DynamoDB can handle more than 10 trillion requests per day and can support peaks of more than 20 million requests per second.
+  - Is similar to MongoDB
+  - Requires the use of node package `dynamoose` that is similar to `mongoose`
+
 ## IAM
 
 - Head into the **Roles** tab on the right
